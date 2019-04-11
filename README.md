@@ -3,4 +3,4 @@ SimpleHTTPServerWithUpload.py
  
 Usage:
 
-python -m SimpleHTTPServerWithUpload.py
+python SimpleHTTPServerWithUpload.py

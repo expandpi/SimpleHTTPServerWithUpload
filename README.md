@@ -1,5 +1,6 @@
-SimpleHTTPServerWithUpload
-SimpleHTTPServerWithUpload.py
+SimpleHTTPServerWithUpload 
+SimpleHTTPServerWithUpload.py 
+ 
 Usage:
 
 python -m SimpleHTTPServerWithUpload
